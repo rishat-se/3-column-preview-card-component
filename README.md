@@ -48,4 +48,4 @@ Learned some new responsive design features.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/rishat-se)
+- Frontend Mentor - [@rishat-se](https://www.frontendmentor.io/profile/rishat-se)
